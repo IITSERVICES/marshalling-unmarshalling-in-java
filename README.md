@@ -16,3 +16,8 @@ For example:
 ---------------
 
 •	XML/JSON file or string ➝ Java object
+
+-------------------------------------
+
+ ![Alt Text](https://miro.medium.com/v2/resize:fit:640/format:webp/1*PCF4ncL9JTjCHwagoe8ltQ.png)
+
